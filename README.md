@@ -1,6 +1,6 @@
 
 Markdown
-## Tutorial: How to Install & Run on Debian 11 VPS
+## Tutorial: broken do not use unless you need a good base for a discord bot
 
 Below are detailed steps assuming you are starting with a fresh Debian 11 server.
 
